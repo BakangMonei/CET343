@@ -3,6 +3,7 @@ package com.neizatheedev.classtutorial;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -40,5 +41,11 @@ public class MainActivity extends AppCompatActivity {
 
         forgotPass = (TextView) findViewById(R.id.forgotPass);
 
+        loginBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
     }
 }
