@@ -11,4 +11,6 @@
 1. Ability to design a visually appealing login screen using XML.
 2. Ability to use different Android UI components to create a functional layout.
 3. Ability to customize the appearance of UI components using XML attributes.
+   ![The Login Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/screens/tutorial1.jpg)
+
 
