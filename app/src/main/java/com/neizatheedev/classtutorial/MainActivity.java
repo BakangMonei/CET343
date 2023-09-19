@@ -48,4 +48,17 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+    public void methodMessage(){
+        String github = "Github";
+        String facebook = "Facebook";
+        String Twitter = facebookIcon.toString().trim();
+
+        facebookIcon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
+    }
 }
