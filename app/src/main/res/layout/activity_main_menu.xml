@@ -5,7 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:ignore="MissingConstraints"
+<<<<<<< HEAD
     tools:context=".Activities.MainMenuActivity">
+=======
+    tools:context=".MainMenuActivity">
+>>>>>>> origin/main
 
 
     <TextView
@@ -23,11 +27,19 @@
 
     <ImageView
         android:id="@+id/bmi_imageview"
+<<<<<<< HEAD
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:background="@drawable/my_square"
         android:layout_marginStart="32dp"
         android:layout_marginTop="80dp"
+=======
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:background="@drawable/my_square"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="88dp"
+>>>>>>> origin/main
         app:layout_constraintEnd_toEndOf="@+id/textView"
         app:layout_constraintHorizontal_bias="0.134"
         app:layout_constraintStart_toStartOf="parent"
@@ -46,6 +58,7 @@
         app:layout_constraintStart_toStartOf="@+id/bmi_imageview"
         app:layout_constraintTop_toBottomOf="@+id/bmi_imageview" />
 
+<<<<<<< HEAD
     <ImageView
         android:id="@+id/whatsappImageView"
         android:layout_width="100dp"
@@ -71,4 +84,6 @@
         app:layout_constraintStart_toStartOf="@+id/whatsappImageView"
         app:layout_constraintTop_toBottomOf="@+id/whatsappImageView" />
 
+=======
+>>>>>>> origin/main
 </androidx.constraintlayout.widget.ConstraintLayout>

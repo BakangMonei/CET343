@@ -13,15 +13,6 @@
         android:theme="@style/Theme.ClassTutorial"
         tools:targetApi="31">
         <activity
-            android:name=".Activities.WhatsappActivity"
-            android:exported="false" />
-        <activity
-            android:name=".Activities.MainMenuActivity"
-            android:exported="false" />
-        <activity
-            android:name=".Activities.BMIActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
