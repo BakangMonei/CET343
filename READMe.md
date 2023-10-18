@@ -10,7 +10,7 @@
 1. Ability to design a visually appealing login screen using XML.
 2. Ability to use different Android UI components to create a functional layout.
 3. Ability to customize the appearance of UI components using XML attributes.
-   ![The Login Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic3.jpg)
+   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic3.jpg" width="200" alt="The Login Screen">
 
 
 ## Freestyles below
@@ -20,7 +20,7 @@
 
 **2. Splash Screen when clicked**
 1. An image below is my SplashScreen
-   ![SplashScreen of my application ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic2jpg)
+   ![SplashScreen of my application ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic2.jpg)
 
 **3. Login Screen**
    ![The Login Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic3.jpg)
