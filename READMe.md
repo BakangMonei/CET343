@@ -50,7 +50,7 @@
 <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg" width="300" height="600" alt="The ChatFragment Screen after">
 
 3. The default view of the 'StatusFragment'
-<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg" width="300" height="600" alt="The StatusFragment Screen">
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic8.jpg" width="300" height="600" alt="The StatusFragment Screen">
 
 4. The default view of the 'CallsFragment'
 <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic9.jpg" width="300" height="600" alt="The CallsFragment Screen">
