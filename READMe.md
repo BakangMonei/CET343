@@ -16,11 +16,11 @@
 ## Freestyles below
 **1. Application on actual device**
 1. Image below is the application called 'ClassTutorial'
-   ![Application on UI ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic1.jpg)
+   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic1.jpg" width="300" height="600" alt="Application on UI"
 
 **2. Splash Screen when clicked**
 1. An image below is my SplashScreen
-   ![SplashScreen of my application ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic2.jpg)
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic2.jpg" width="300" height="600" alt="SplashScreen of my application "
 
 **3. Login Screen**
    ![The Login Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic3.jpg)
