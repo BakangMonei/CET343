@@ -16,11 +16,11 @@
 ## Freestyles below
 **1. Application on actual device**
 1. Image below is the application called 'ClassTutorial'
-   ![Application on UI](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic1.jpg)
+   ![Application on UI ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic1.jpg)
 
 **2. Splash Screen when clicked**
 1. An image below is my SplashScreen
-   ![SplashScreen of my application](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic2jpg)
+   ![SplashScreen of my application ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic2jpg)
 
 **3. Login Screen**
    ![The Login Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic3.jpg)
@@ -41,6 +41,6 @@
 2. After clicking the toggleButton below
    ![The ChatFragment Screen after ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg)
 3. The default view of the 'StatusFragment'
-   ![The StatusFragment Screen](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic8.jpg)
+   ![The StatusFragment Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic8.jpg)
 4. The default view of the 'CallsFragment'
-   ![The CallsFragment Screen](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic9.jpg)
+   ![The CallsFragment Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic9.jpg)
