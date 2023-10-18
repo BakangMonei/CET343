@@ -6,12 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-<<<<<<< HEAD
     tools:context=".Activities.BMIActivity">
-=======
-    tools:context=".BMIActivity">
->>>>>>> origin/main
-
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

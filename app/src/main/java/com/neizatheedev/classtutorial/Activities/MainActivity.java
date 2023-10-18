@@ -1,4 +1,4 @@
-package com.neizatheedev.classtutorial;
+package com.neizatheedev.classtutorial.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,7 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.google.android.material.button.MaterialButton;
-import com.neizatheedev.classtutorial.Activities.MainMenuActivity;
+import com.neizatheedev.classtutorial.R;
 
 /**
  * @Author: Monei Bakang Mothuti
