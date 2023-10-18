@@ -18,7 +18,7 @@ public class BMIActivity extends AppCompatActivity {
     private EditText heightInput;
     private EditText weightInput;
     private Button calculateButton;
-    private TextView resultText,bmiResult;
+    private TextView resultText, bmiResult;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,7 +29,7 @@ public class BMIActivity extends AppCompatActivity {
         weightInput = findViewById(R.id.weightInput);
         calculateButton = findViewById(R.id.calculateButton);
         resultText = findViewById(R.id.resultText);
-        bmiResult=findViewById(R.id.bmiResult);
+        bmiResult = findViewById(R.id.bmiResult);
 
 
         calculateButton.setOnClickListener(new View.OnClickListener() {

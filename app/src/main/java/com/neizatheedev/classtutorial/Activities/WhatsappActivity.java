@@ -1,14 +1,18 @@
 package com.neizatheedev.classtutorial.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
+
 import com.neizatheedev.classtutorial.Fragments.CallsFragment;
 import com.neizatheedev.classtutorial.Fragments.ChatFragment;
 import com.neizatheedev.classtutorial.Fragments.StatusFragment;
 import com.neizatheedev.classtutorial.R;
+
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
+
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;

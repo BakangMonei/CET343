@@ -18,6 +18,7 @@ import com.neizatheedev.classtutorial.R;
 public class MainMenuActivity extends AppCompatActivity {
     ImageView bmi_imageview, whatsappImageView;
     TextView bmi_textview, whatsappTextView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -55,12 +56,12 @@ public class MainMenuActivity extends AppCompatActivity {
 
     }
 
-    public void goToBMICalculator(){
+    public void goToBMICalculator() {
         Intent x = new Intent(MainMenuActivity.this, BMIActivity.class);
         startActivity(x);
     }
 
-    public void goToWhatsapp(){
+    public void goToWhatsapp() {
         Intent x = new Intent(MainMenuActivity.this, WhatsappActivity.class);
         startActivity(x);
     }

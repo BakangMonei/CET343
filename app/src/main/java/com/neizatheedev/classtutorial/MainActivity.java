@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private MaterialButton loginBtn;
     private ImageView facebookIcon, githubIcon, twitterIcon;
     private TextView forgotPass;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -51,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    public void methodMessage(){
+    public void methodMessage() {
         String github = "Github";
         String facebook = "Facebook";
         String Twitter = facebookIcon.toString().trim();
@@ -64,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    public void goToDashboard(){
+    public void goToDashboard() {
         Intent x = new Intent(MainActivity.this, MainMenuActivity.class);
         startActivity(x);
     }
