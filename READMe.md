@@ -16,31 +16,41 @@
 ## Freestyles below
 **1. Application on actual device**
 1. Image below is the application called 'ClassTutorial'
-   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic1.jpg" width="300" height="600" alt="Application on UI">
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic1.jpg" width="300" height="600" alt="Application on UI">
+
 
 **2. Splash Screen when clicked**
 1. An image below is my SplashScreen
-   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic2.jpg" width="300" height="600" alt="SplashScreen of my application">
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic2.jpg" width="300" height="600" alt="SplashScreen of my application">
+
 
 **3. Login Screen**
-   ![The Login Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic3.jpg)
+1. The login screen
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic3.jpg" width="300" height="600" alt="The Login Screen">
+
 
 **4. My Menu part**
 1. Soo far we cloned 'Whatsapp' and designed a 'Body Mass Index Calculator'
-   ![The Menu Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic4.jpg)
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic4.jpg" width="300" height="600" alt="The Menu Screen">
+
 
 **5. My Body Mass Index Calculator**
 1. This is the normal look below
-   ![The Body Mass Index Calculator Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic5.jpg)
+   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic5.jpg" width="300" height="600" alt="The Body Mass Index Calculator Screen">
+
 2. After adding data and the results
-   ![The Body Mass Index Calculator Screen After Adding data ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pc6.jpg)
+   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pc6.jpg" width="300" height="600" alt="The Body Mass Index Calculator Screen After Adding data">
+
 
 **6. My Whatsapp CLone**
 1. The default view, the 'ChatFragment' before clicking the toggleButton below
-   ![The ChatFragment Screen before ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic7.jpg)
+   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic7.jpg" width="300" height="600" alt="The ChatFragment Screen before">
+
 2. After clicking the toggleButton below
-   ![The ChatFragment Screen after ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg)
+   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg" width="300" height="600" alt="The ChatFragment Screen after">
+
 3. The default view of the 'StatusFragment'
-   ![The StatusFragment Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic8.jpg)
+   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg" width="300" height="600" alt="The StatusFragment Screen">
+
 4. The default view of the 'CallsFragment'
-   ![The CallsFragment Screen ](https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic9.jpg)
+   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic9.jpg" width="300" height="600" alt="The CallsFragment Screen">
