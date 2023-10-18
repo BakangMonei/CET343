@@ -36,21 +36,21 @@
 
 **5. My Body Mass Index Calculator**
 1. This is the normal look below
-   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic5.jpg" width="300" height="600" alt="The Body Mass Index Calculator Screen">
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic5.jpg" width="300" height="600" alt="The Body Mass Index Calculator Screen">
 
 2. After adding data and the results
-   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pc6.jpg" width="300" height="600" alt="The Body Mass Index Calculator Screen After Adding data">
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pc6.jpg" width="300" height="600" alt="The Body Mass Index Calculator Screen After Adding data">
 
 
 **6. My Whatsapp CLone**
 1. The default view, the 'ChatFragment' before clicking the toggleButton below
-   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic7.jpg" width="300" height="600" alt="The ChatFragment Screen before">
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic7.jpg" width="300" height="600" alt="The ChatFragment Screen before">
 
 2. After clicking the toggleButton below
-   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg" width="300" height="600" alt="The ChatFragment Screen after">
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg" width="300" height="600" alt="The ChatFragment Screen after">
 
 3. The default view of the 'StatusFragment'
-   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg" width="300" height="600" alt="The StatusFragment Screen">
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic10.jpg" width="300" height="600" alt="The StatusFragment Screen">
 
 4. The default view of the 'CallsFragment'
-   <img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic9.jpg" width="300" height="600" alt="The CallsFragment Screen">
+<img src="https://github.com/BakangMonei/CET343/blob/main/app/src/main/res/drawable/pic9.jpg" width="300" height="600" alt="The CallsFragment Screen">
